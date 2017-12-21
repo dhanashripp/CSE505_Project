@@ -1,0 +1,1199 @@
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((small, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+output((small, triangle, green, false)).
+active_concept(0).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, green, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((small, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, circle, green, false)).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, red, false)).
+active_concept(0).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+output((medium, square, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((medium, circle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((small, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, green, false)).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+output((medium, circle, red, false)).
+active_concept(0).
+----------------
+output((small, triangle, red, true)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, circle, blue, false)).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, red, true)).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, triangle, blue, false)).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, circle, blue, false)).
+----------------
+output((small, circle, green, false)).
+active_concept(0).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+output((small, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((large, square, red, false)).
+----------------
+output((large, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((medium, square, red, false)).
+----------------
+output((medium, square, green, false)).
+active_concept(0).
+----------------
+output((large, circle, green, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+output((large, circle, red, false)).
+active_concept(0).
+----------------
+output((medium, triangle, red, false)).
+active_concept(0).
+----------------
+output((small, circle, red, true)).
+active_concept(0).
+----------------
+output((medium, triangle, green, false)).
+active_concept(0).
+----------------
+output((large, triangle, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, green, false)).
+----------------
+output((large, square, blue, false)).
+active_concept(0).
+----------------
+active_concept(0).
+output((small, square, red, true)).

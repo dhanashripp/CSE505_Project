@@ -1,0 +1,199 @@
+sequence([d, z]).
+----------------
+sequence([x, i, y]).
+----------------
+sequence([y]).
+----------------
+sequence([j, j, j, s, t, t, f, y, m, k, n, u]).
+----------------
+sequence([f, u]).
+----------------
+sequence([s, r, p, k, u, t, z, q, y, z, y, h, v, x, x]).
+----------------
+sequence([o]).
+----------------
+sequence([g, a, c, z, y, w, m, l, w, a, j]).
+----------------
+sequence([r]).
+----------------
+sequence([e, u]).
+----------------
+sequence([d, e, d, c, b]).
+----------------
+sequence([j]).
+----------------
+sequence([o, e, w, k, l, z, j, a, r, l]).
+----------------
+sequence([s, f, v, z]).
+----------------
+sequence([n, v, g]).
+----------------
+sequence([o, w, i, g, i, m, n]).
+----------------
+sequence([w, d, v, x, u, w, f, u, n, s, t, g, n, m, t]).
+----------------
+sequence([l, y, m, f]).
+----------------
+sequence([w, o, v, m]).
+----------------
+sequence([n, h, g, z, x, f, j]).
+----------------
+sequence([g, r, z]).
+----------------
+sequence([e, l, r, k, x, y, z, q, c]).
+----------------
+sequence([v, i, g, f, e, r]).
+----------------
+sequence([o, o, n, v, q, x, q, o, t, g, w, w]).
+----------------
+sequence([p]).
+----------------
+sequence([n, c, v]).
+----------------
+sequence([l, t, l, s]).
+----------------
+sequence([o]).
+----------------
+sequence([g, f, y, m, o]).
+----------------
+sequence([t, l, a, h, k, f, o, n, u, k, j, f]).
+----------------
+sequence([d, q]).
+----------------
+sequence([e, p, k, w, g, o, t, m]).
+----------------
+sequence([f, s, p]).
+----------------
+sequence([n, a, t, v, o, i]).
+----------------
+sequence([v]).
+----------------
+sequence([y, g, d, s, q, n]).
+----------------
+sequence([a, w, b, q, y, q, x, y, u, u, u]).
+----------------
+sequence([q, q, l, q, l, m, k, f, d, o, g, g, k, r, v, h, l, h]).
+----------------
+sequence([p, o, b, f, c, r]).
+----------------
+sequence([l]).
+----------------
+sequence([c]).
+----------------
+sequence([u, w]).
+----------------
+sequence([z, t]).
+----------------
+sequence([h, y, h, m, a, w, m, u, e, b, z, s, c, x, v]).
+----------------
+sequence([i, p, r, w, y, m, l]).
+----------------
+sequence([p, c, l, e, q, p, r, o, c, c, s, t, l, g, l]).
+----------------
+sequence([e, w, j, t, k, i, d]).
+----------------
+sequence([s]).
+----------------
+sequence([p, w]).
+----------------
+sequence([a, c, b, y, m, q, s, m, s]).
+----------------
+sequence([n]).
+----------------
+sequence([h]).
+----------------
+sequence([o, d, u, l, n]).
+----------------
+sequence([g]).
+----------------
+sequence([v, m]).
+----------------
+sequence([k, k]).
+----------------
+sequence([b, l, k, v, j, j]).
+----------------
+sequence([b, y]).
+----------------
+sequence([p, d, n, m, a, t, e]).
+----------------
+sequence([k, q, f]).
+----------------
+sequence([k, v, k, c, f, w, y]).
+----------------
+sequence([s]).
+----------------
+sequence([s]).
+----------------
+sequence([l, y, u, x, d, r, p]).
+----------------
+sequence([m, h, y, a, y, u]).
+----------------
+sequence([b, j]).
+----------------
+sequence([x, s, k, u]).
+----------------
+sequence([o, h, e, s, t]).
+----------------
+sequence([o, y, f, y, i, r, o]).
+----------------
+sequence([f, h, i, l, t, x, q]).
+----------------
+sequence([t, w, t, e, l, w]).
+----------------
+sequence([v, y, z, o, x, r, h, f, n, s, p]).
+----------------
+sequence([v, l, r, x, p]).
+----------------
+sequence([x, x, k, i, z, l, d, l, l, f, t, b, h, d, s]).
+----------------
+sequence([e, j, q, k]).
+----------------
+sequence([m, r]).
+----------------
+sequence([b, w, q]).
+----------------
+sequence([t, d, c, u, y]).
+----------------
+sequence([f, m, y, c, d, z, c, t]).
+----------------
+sequence([s]).
+----------------
+sequence([y, l, j, a, n, s, s, a, a, m, i, f, n, j, f, u, i, f, m, g, p, i, a, g, v]).
+----------------
+sequence([b, b]).
+----------------
+sequence([j, a, o, a, e]).
+----------------
+sequence([u, n]).
+----------------
+sequence([c, c]).
+----------------
+sequence([o]).
+----------------
+sequence([z, h, b, j]).
+----------------
+sequence([k, p]).
+----------------
+sequence([f, u, y, f, n, v, d, n, g, i, l, l, s, e, r, d, z, u, o, e, t, v, u, z, a, a, s, e, f, x, j, o]).
+----------------
+sequence([c, m, v, a]).
+----------------
+sequence([d, b, h, s, p, r, m, n, z, q, r, p, y, p, s, w, v, x, e]).
+----------------
+sequence([f, l, d, q, e, n]).
+----------------
+sequence([y, q, p, o]).
+----------------
+sequence([h, m, d, b, k, w, i, o]).
+----------------
+sequence([s]).
+----------------
+sequence([o, s, k, g]).
+----------------
+sequence([c, g, v, z, d]).
+----------------
+sequence([k, l, a, b, a, q, c, d, d, n, t, q]).
+----------------
+sequence([s, l]).
+----------------
+sequence([p, o, t, o, q, n, a, s, f, v, q]).
